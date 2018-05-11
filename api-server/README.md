@@ -1,3 +1,6 @@
+# Frontend 
+ * In order to start application in front-end, navigate to readable/api-server/frontend, and run npm install, then npm start.
+
 # API Server
 
 To install and start the API server, run the following commands in this directory:
