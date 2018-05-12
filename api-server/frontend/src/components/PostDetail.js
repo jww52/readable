@@ -138,7 +138,7 @@ render(){
           expanded={true}
           >
           <CardTitle actAsExpander={true} title={post.title} subtitle={`by ${post.author}`} />
-            <CardHeader title={`Votes: ${post.voteScore}`}
+            <CardHeader title={`Votes: ${post.voteScore}`} subtitle={`Comments: ${post.commentCount}` }
             actAsExpander={true}
             showExpandableButton={false}
           />
